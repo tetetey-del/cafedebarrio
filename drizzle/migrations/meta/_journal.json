@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "postgresql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791979506276,
+      "tag": "0000_create_cafe_products_and_contact",
+      "breakpoints": true
+    }
+  ]
 }
